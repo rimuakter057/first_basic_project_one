@@ -1,4 +1,5 @@
-import 'package:first_project/app/ui/screens/widget/circle_avatar.dart';
+
+import 'package:first_project/ui/screens/widget/circle_avatar.dart';
 import 'package:flutter/material.dart';
 
 class FirstScreen extends StatelessWidget {
